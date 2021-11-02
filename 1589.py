@@ -1,8 +1,0 @@
-n= int(input())
-for i in range(n):
-    x=input().split()
-    r1=int(x[0])
-    r2=int(x[1])
-    c=r1+r2
-    print(c)
-

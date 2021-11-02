@@ -1,9 +1,0 @@
-max = -1
-position=0
-for i in range(100):
-    number = int(input())
-    if number > max:
-        max = number
-        position = i + 1
-
-print(str(max) + "\n" + str(position))

@@ -1,4 +1,0 @@
-hours=int(input())
-km_hour=int(input())
-fuel_required=(hours*km_hour)/12
-print('{:.3f}'.format(fuel_required))

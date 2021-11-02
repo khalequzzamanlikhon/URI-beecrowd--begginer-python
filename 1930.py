@@ -1,3 +1,0 @@
-inn=list(map(int,input().split()))
-result=(inn[0]-1)+(inn[1]-1)+(inn[2]-1)+inn[3]
-print(result)
